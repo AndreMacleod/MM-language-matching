@@ -13,4 +13,5 @@ Future improvements could be:
 
 - Add more rules, to try to catch company names that escaped Leveshtein distance assessment. For example could add Jaccard similarity and cosine distance, and base criteria on a combination of these rules, for example, we include the company name if it passes two out of three rules.
 - More metrics, eg accuracy, precision and specificity, as we might care more about not missing false negatives than overall accuracy, and see if model is improved by choosing thresholds based on metrics other than accuracy.
+- Calcuate accuracy not just based on matching the words, but percentage change of fossil fuels holdings value in the fund
 - Improvements to code structure and details to improve efficiency and readability.
