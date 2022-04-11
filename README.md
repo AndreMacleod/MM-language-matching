@@ -1,13 +1,13 @@
-## MM-language-matching
+# MM-language-matching
 
-# My attempt at Mindful Money techinical challenge
+## My attempt at Mindful Money techinical challenge
 
 Run model_build.py in folder environment for my attempt. 
 
 Overall accuracy was calcluated as an average of accuracy of each individual fund, which I acknowledge will weight it in favour of larger funds. Best accuracy was calculated to be 0.9509569377990431.
 Two figures are given, one is just a plot to help choose best threshold for Leveshtein distance, which is the rule I used to determine string similarity. The second is my answer to data visualization, a plot that shows percentage of fossil fuel holdings for each fund as a histogram.
 
-# Future work
+## Future work
 
 Future improvements could be:
 
