@@ -1,6 +1,6 @@
 # MM-language-matching
 
-## My attempt at Mindful Money techinical challenge
+## My attempt at Mindful Money technical challenge
 
 Run model_build.py in folder environment for my attempt. 
 
